@@ -1,0 +1,2 @@
+index,Food_name,Ingredients,Food_type,prep_time,cook_time,flavor_profile,course,state,region
+1,Balu shahi,"['Maida flour', 'yogurt', 'oil', 'sugar']",halal,45,25,sweet,dessert,West Bengal,East

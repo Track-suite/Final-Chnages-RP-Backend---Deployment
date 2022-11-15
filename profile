@@ -1,0 +1,1 @@
+web: gunicorn Allergen:app --log-file -
